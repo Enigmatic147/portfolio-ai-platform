@@ -1,21 +1,5 @@
-# Python
 .venv/
 __pycache__/
 *.pyc
-
-# Environment
-.env
-
-# Chroma DB
 app/chroma_db/
-
-# Node
-node_modules/
-
-# Build
-dist/
-build/
-
-# OS
-.DS_Store
-Thumbs.db
+.env
